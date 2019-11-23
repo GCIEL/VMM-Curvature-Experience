@@ -18,7 +18,7 @@ In the first experience the  player has crash-landed on an unknown planet. In or
   <img src="/resources/curvature06.PNG" alt="The player has found all four umbilical points and has escaped the planet. From high up the player can see the entire planet as well as two of their discovered umbilical points." width="400">
 </p>
 
-The main Unity scene file is [Curvature/Assets/Scenes/Ellipsoid]() and the important code that I developed is in the [Curvature Experience/Assets/Scripts]() folder. Here are the [poster]() and [paper]() that I wrote for the VMM MAP summer project.
+The main Unity scene file is [Curvature/Assets/Scenes/Ellipsoid](https://github.com/GCIEL/VMM-Curvature-Experience/blob/master/Curvature%20Experience/Assets/Scenes/Ellipsoid.unity) and the important code that I developed is in the [Curvature Experience/Assets/Scripts](https://github.com/GCIEL/VMM-Curvature-Experience/tree/master/Curvature%20Experience/Assets/Scripts) folder. Here are the [poster](https://github.com/GCIEL/VMM-Curvature-Experience/blob/master/resources/vmm_final_poster.pdf) and [paper](https://github.com/GCIEL/VMM-Curvature-Experience/blob/master/resources/vmm_final_paper.pdf) that I wrote for the VMM MAP summer project.
 
 ## Built With
 
