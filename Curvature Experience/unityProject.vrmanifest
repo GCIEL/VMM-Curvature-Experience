@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.differentialgeometryexperienceone.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\student\\Documents\\Virtual Math Models Summer 2019\\Differential Geometry Experience One\\Differential Geometry Experience One\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Differential Geometry Experience One [Testing]"
+        }
+      }
+    }
+  ]
+}

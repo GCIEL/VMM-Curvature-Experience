@@ -1,0 +1,55 @@
+Oh no! It looks that we have crashed on a planet. Use the 'Y' and 'X' buttons on your left hand controller to move to the next text pane.
+
+Where are we? You can look around, by well looking around.
+
+You can walk around by looking in a direction and using the left controller joystick.
+
+Awesome, now you are all set to help us get out of here!
+
+Okay, so to get out of here, we are going to have to find places where rescue ships can land.
+
+It turns out that rescue ships can only land at points on the planet that are locally spherical.
+
+You are going to have to find these points, which we call UMBILICAL POINTS.
+
+Aha! We have this tool called a Form2 Compass that will help us find these points.
+
+You see that orange beam-thingy emanating out of your right hand controller? That is the compass's casting direction.
+
+To activate the compass, use the right hand trigger and aim the casting direction at some place on the ground below you.
+
+You see that orange peanut shape? That is our compass! You can ignore the cyan directions for now.
+
+Do you see the orange directions? Each of those directions represents something called NORMAL CURVATURE.
+
+NORMAL CURVATURE tells the measure of how much a surface 'curves' as one moves in a certain direction.
+
+Remember how I described your compass as peanut shaped? Well, that is because in certain directions the surface is curving more than it is in others.
+
+Where the peanut is longest, the surface is curving the most, and where the peanut is shortest, the surface is curving the least.
+
+To leave the planet, you are going to have to find all of the UMBILICAL POINTS. Every. last. one.
+
+If an UMBILICAL POINT is a point that looks locally spherical, this means that the measure of NORMAL CURVATURE is the same every direction.
+
+Your compass looks like a peanut because in some directions the planet is curving more than others.
+
+Since an UMBILICAL POINT is locally spherical, at such a point your compass will show the same curvature in every direction.
+
+What shape should the compass look like at an UMBILICAL POINT if all of the normal curvatures are the same in every direction?
+
+Before I let you go on your mission, one last thing.
+
+Because we do not really know the shape of this planet, I am going to give you a minimap.
+
+The minimap will show you your current location, the path you have walked, and the already discovered UMBILICAL POINTS.
+
+To see the minimap, you will need to disable the tutorial. To activate and disable press the left controller joystick.
+
+To both activate and disable the minimap, press the left hand trigger.
+
+Well go on! Use your Form2 compass and the minimap to find all of the UMBILICAL POINTS!
+
+Do you want to be stranded here forever?
+
+Good luck, and have fun ;) !
